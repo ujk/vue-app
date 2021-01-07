@@ -1,1 +1,5 @@
-alert("okey");
+function okey(){
+  alert("okey");
+}
+
+export { okey };
